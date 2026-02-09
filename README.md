@@ -6,3 +6,5 @@ To run, create a virtual environnement and run "pip install -r requirements.txt"
 When it runs, the script is creating a local website accessible from the user's machine.
 
 Features to connect it to a domain name will be explained here when they are added.
+
+This repo is based on Django's tutorial, used as a base.
