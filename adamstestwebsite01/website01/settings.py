@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'polls.apps.PollsConfig',   #PollsConfig c'eset le fichier est en tantq ue tel
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
